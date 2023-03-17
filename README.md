@@ -7,16 +7,15 @@
 
 > 🏕 Este projeto foi concluido no evento de uma semana da <a href="https://www.rocketseat.com.br/">RocketSeat</a>.
 
-### 🏠 [Click here to see project](https://igusantos.github.io/Doctor.Care/)
+### 🏠 [Clique para ver o projeto](https://igusantos.github.io/Doctor.Care/)
 
-## Author
+## Autor
 
 👤 **Igor Pereira**
 
 * Github: [@IguSantos](https://github.com/IguSantos)
 
-
-## Show your support
+## Mostre seu apoio
 
 Dê uma ⭐️ se este projeto te ajudou!
 
