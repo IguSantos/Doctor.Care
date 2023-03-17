@@ -18,6 +18,6 @@
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Dê uma ⭐️ se este projeto te ajudou!
 
 ***
