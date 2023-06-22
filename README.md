@@ -1,7 +1,7 @@
 <h1 align="center">Doctor Care</h1>
 
 <p align="center">
-Site que oferece serviços e ajuda na área de saúde<br/>
+Site que oferece assistencia médica<br/>
 </p>
 
 <p align="center">
